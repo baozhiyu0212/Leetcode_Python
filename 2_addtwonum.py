@@ -28,4 +28,4 @@ def addtwonum(l1,l2) :
 
 if __name__=="__main__" :
 	final_result = addtwonum([2,8,1],[1,3,7])
-	print final_result
+	print(final_result)
