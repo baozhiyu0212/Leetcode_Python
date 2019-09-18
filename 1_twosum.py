@@ -14,4 +14,4 @@ def twosum(nums, target):
 
 if __name__ == "__main__":
 	result = twosum([2,5,6,7,8],8)
-	print result
+	print(result)
