@@ -13,3 +13,4 @@ before_install:
       
 script:
     - python 1_twosum.py
+    - python 2_addtwonum.py
